@@ -1,0 +1,6 @@
+{
+  "editor.trimAutoWhitespace": false,
+  "editor.renderWhitespace": "trailing",
+  "editor.useTabStops": false,
+  "tws.trimOnSave": false
+}
